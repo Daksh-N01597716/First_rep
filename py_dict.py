@@ -8,3 +8,4 @@ def add_fruit(fruit, color):
 
 add_fruit('banana', 'yellow')
 add_fruit('grape', 'purple')  # New fruit added
+add_fruit('cherry', 'red')  # New fruit added
