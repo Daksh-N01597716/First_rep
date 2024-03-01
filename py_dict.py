@@ -7,3 +7,4 @@ def add_fruit(fruit, color):
     print("Current dictionary:", my_dict)
 
 add_fruit('banana', 'yellow')
+add_fruit('grape', 'purple')  # New fruit added
